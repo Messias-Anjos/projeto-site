@@ -16,3 +16,11 @@ main{
     box-shadow: 3px 3px 5px black;
     padding: 10px;
 }
+h1{
+    font-size: 35px;
+    color: rgb(0, 149, 255);
+}
+article h2{
+    color: rgb(0, 149, 255);
+    font-size: 25px;
+}
